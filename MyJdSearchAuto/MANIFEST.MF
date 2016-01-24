@@ -1,0 +1,3 @@
+Manifest-Version: 2.0
+Class-Path: libs/jsoup-1.8.1-javadoc.jar libs/jsoup-1.8.1-sources.jar libs/jsoup-1.8.1.jar libs/mysql-connector-java-5.1.22-bin.jar libs/log4j-1.2.17.jar
+Main-Class: com.zhj.Main
